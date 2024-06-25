@@ -1,3 +1,5 @@
 # MOEAs
-Chào các bạn đến với thư mục MOEAs. Trong project này, mình sẽ chia sẻ code của một số các thuật toán tối ưu đa mục tiêu. Đây là chủ đề chính của nhóm mình trong bài tập toán rời rạc.//
-Tóm tắt
+Chào các bạn đến với thư mục MOEAs. Trong project này, mình sẽ chia sẻ code của một số các thuật toán tối ưu đa mục tiêu. Đây là chủ đề chính của nhóm mình trong bài tập toán rời rạc.
+
+# Tóm tắt
+Nhìn chung, đây là một lĩnh vực khá hay. Các bài toán về tối ưu đa mục tiêu có ý nghĩa quan trọng trong thực tế. Ví dụ, trong bài toán chi tiêu ngân cho việc xây dựng các công trình, ngoài vấn đề tiền bạc, họ còn phải tính toán về thời gian, rủi ro phát sinh,... Trong các bài toán như vậy, ta cần ưu tiên các chinh sách có thể cân đối được tốt nhất.
